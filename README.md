@@ -1,5 +1,3 @@
-Sure! Here is the revised README.md without the installation section:
-
 ---
 
 # Dart JSON Data Handling with List of Maps and Factory Constructors
